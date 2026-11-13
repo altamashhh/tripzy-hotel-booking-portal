@@ -254,9 +254,9 @@ filenames or a demo link after adding them.
 
 -   **Approximate development time:** 13hr
 -   **Unfinished items / known limitations:**
-   Automated test coverage for edge cases such as simultaneous booking attempts and complex overlapping reservations could be expanded.
-   The recommendation engine uses rule-based scoring rather than a trained machine-learning model.
-   The application uses sample hotel data and is intended as an internship assessment prototype.
+ - Automated test coverage for edge cases such as simultaneous booking attempts and complex overlapping reservations could be expanded.
+ - The recommendation engine uses rule-based scoring rather than a trained machine-learning model.
+ - The application uses sample hotel data and is intended as an internship assessment prototype.
 
 Authentication, payment integration, and an admin panel have not been implemented, as they were outside the assignment scope.\]
 -   **AI assistance disclosure:** AI tools were used for development
