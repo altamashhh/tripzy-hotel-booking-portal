@@ -252,12 +252,14 @@ filenames or a demo link after adding them.
 
 ## Development effort and disclosure
 
--   **Approximate development time:** \[Enter your actual approximate
-    time spent. The assignment suggests 12--16 hours; use your actual
-    estimate.\]
--   **Unfinished items / known limitations:** \[Update after final
-    verification. Be transparent about incomplete automated tests or
-    room-level availability display, if applicable.\]
+-   **Approximate development time:** 13hr
+-   **Unfinished items / known limitations:** \[Automated test coverage for edge cases such as simultaneous booking attempts and complex overlapping reservations could be expanded.
+
+The recommendation engine uses rule-based scoring rather than a trained machine-learning model.
+
+The application uses sample hotel data and is intended as an internship assessment prototype.
+
+Authentication, payment integration, and an admin panel have not been implemented, as they were outside the assignment scope.\]
 -   **AI assistance disclosure:** AI tools were used for development
     support, including planning, code review, debugging guidance, and
     documentation drafting. The developer is responsible for reviewing
@@ -266,6 +268,6 @@ filenames or a demo link after adding them.
 
 ## Repository
 
-Public GitHub repository: `[Paste your public GitHub repository URL]`
+Public GitHub repository: https://github.com/altamashhh/tripzy-hotel-booking-portal
 
 The repository must remain public as required by the assignment.
